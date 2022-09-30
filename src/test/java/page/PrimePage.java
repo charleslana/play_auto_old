@@ -9,7 +9,7 @@ public class PrimePage {
         this.page = page;
     }
 
-    public final String url = "http://localhost:8080/autocomplete";
+    public final String url = "https://www.primefaces.org/primevue/autocomplete";
 
     private final Page page;
 
